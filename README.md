@@ -30,3 +30,7 @@ Implement a system for dynamically loading plugins in the form of classes contai
      * Indicate which plugins were loaded in parallel;
      * Record the total loading time (using `Stopwatch` -> `Start()`, `Stop()`, `Elapsed`);
      * List plugins that failed to load, along with the reason for the failure.
+    
+### Plugins structer
+
+![alt text](https://github.com/timofejr/ITISControlWorkSem2/blob/master/ConsoleApp1/images/plugins_structer.jpg "Logo Title Text 1")
